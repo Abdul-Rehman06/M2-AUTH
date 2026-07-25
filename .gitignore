@@ -16,6 +16,8 @@ dist-ssr
 .nitro
 *.local
 .workspace/
+m2-auth.zip
+dist-deploy.tar.gz
 
 # Wrangler / Cloudflare
 .wrangler/
